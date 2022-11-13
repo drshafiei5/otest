@@ -1,0 +1,10 @@
+{
+  "home": [
+    {
+      "description": "lorem",
+      "phone": "0912",
+      "address": "address",
+      "coordinates": [1, 2]
+    }
+  ]
+}
